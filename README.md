@@ -1,16 +1,15 @@
-## Hi there 👋
+Buenas,
 
-<!--
-**5starcannon/5starcannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Joan Puig (conocido en GitHub como: '5starcannon'), tengo 24 años y he trabajado como profesor de CFGS de programación IT en CampusNET y técnico en Ciberseguridad en empresas como el Grupo Godó y la aseguradora ARAG.
 
-Here are some ideas to get you started:
+Durante mi estancia como técnico de ciberseguridad, aprendí a usar softwares de seguridad y monitoreo como Elastic ELK, PFSENSE, Grafana, el XDR de Wazuh, además de otro tipo de herramientas de red como Prometheus, Wireshark y Network Miner. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+También me he encargado de diseñar scripts en C# . NET Framework, BASH, BATCH, Visual Basic y Powershell para automatizar las tareas diarias del Dept. de HelpDesk, además de desplegar scripts maliciosos de manera controlada que ponían a prueba la seguridad informática de los PCs.
+
+Muchas gracias por vuestra atención.
+
+Atentamente,
+
+Joan Puig
+
+Inicial: Presentación en GitHub.
